@@ -17,7 +17,9 @@ _inspired by ROLAND TR-808_
 * Vanilla JS
 * ES 6
 
-background downloaded from unsplash.com_
+_background downloaded from unsplash.com_
+
+_this is a first challange from JavaScript30 | https://javascript30.com/_
 ___
 
 License

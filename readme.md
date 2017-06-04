@@ -3,9 +3,9 @@ _inspired by ROLAND TR-808_
 
 
 ## [Check out demo!](https://mmazurkiewicz.github.io/Vanilla-JS-Drum-Kit/)
-(You have to agree to share your location)
 
-![Local weather](screenshot.png "Vanilla JS Drum Kit")
+
+![](sreenshot.png "Vanilla JS Drum Kit")
 ### Features:
 
 * 9 different drum sounds
